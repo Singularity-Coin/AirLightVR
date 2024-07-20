@@ -1,3 +1,11 @@
+description: Open source Meta Quest "Air Link" PC connection software.
+
+# Home:
+https://github.com/alvr-org/ALVR
+
+# wiki:
+https://sidequestvr.com/app/9/alvr-air-light-vr
+
 # install:
 [How to play VR games on Manjaro and Arch Linux with the Oculus Quest](https://youtu.be/vNldCrZE6tI)
 
